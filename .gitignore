@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#visual studio project
+vs_riabow.code-workspace
+
 # User-specific files
 *.rsuser
 *.suo
